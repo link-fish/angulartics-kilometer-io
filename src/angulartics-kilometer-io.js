@@ -25,7 +25,7 @@
       });
 
       $analyticsProvider.registerPageTrack(function(path, locationObj) {
-        Kilometer.transmitEvent("visit_app", {title: $window.document.title, url: path});
+        Kilometer.transmitEvent("visitApp", {title: $window.document.title, url: path});
       });
 
       $analyticsProvider.registerEventTrack(function (action, properties) {
