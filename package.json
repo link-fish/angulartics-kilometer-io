@@ -1,6 +1,6 @@
 {
   "name": "angulartics-kilometer-io",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Kilometer.io plugin for Angulartics",
   "main": "src/angulartics-kilometer-io.js",
   "scripts": {
