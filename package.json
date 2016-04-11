@@ -1,0 +1,26 @@
+{
+  "name": "angulartics-kilometer-io",
+  "version": "0.1.0",
+  "description": "Kilometer.io plugin for Angulartics",
+  "main": "src/angulartics-kilometer-io.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:linkfish/angulartics-kilometer-io.git"
+  },
+  "keywords": [
+    "angular",
+    "analytics",
+    "kilometer.io"
+  ],
+  "author": {
+    "name": "Jan Oberhauser",
+    "email": "jan@link.fish"
+  },
+  "dependencies": {
+    "angulartics": "*"
+  },
+  "devDependencies": {
+  }
+}
